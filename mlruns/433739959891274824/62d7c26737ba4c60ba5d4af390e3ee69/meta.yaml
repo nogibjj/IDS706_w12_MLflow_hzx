@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_w12_MLflow_hzx/mlruns/433739959891274824/62d7c26737ba4c60ba5d4af390e3ee69/artifacts
+end_time: 1700423405759
+entry_point_name: ''
+experiment_id: '433739959891274824'
+lifecycle_stage: active
+run_id: 62d7c26737ba4c60ba5d4af390e3ee69
+run_name: classy-sponge-544
+run_uuid: 62d7c26737ba4c60ba5d4af390e3ee69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700423404282
+status: 3
+tags: []
+user_id: codespace

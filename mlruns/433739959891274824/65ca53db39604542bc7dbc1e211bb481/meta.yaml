@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_w12_MLflow_hzx/mlruns/433739959891274824/65ca53db39604542bc7dbc1e211bb481/artifacts
+end_time: 1700423404279
+entry_point_name: ''
+experiment_id: '433739959891274824'
+lifecycle_stage: active
+run_id: 65ca53db39604542bc7dbc1e211bb481
+run_name: charming-lamb-518
+run_uuid: 65ca53db39604542bc7dbc1e211bb481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700423402768
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_w12_MLflow_hzx/mlruns/433739959891274824/15b18cc7b19d4700b129fa2954200f1e/artifacts
+end_time: 1700423393639
+entry_point_name: ''
+experiment_id: '433739959891274824'
+lifecycle_stage: active
+run_id: 15b18cc7b19d4700b129fa2954200f1e
+run_name: amazing-dove-918
+run_uuid: 15b18cc7b19d4700b129fa2954200f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700423392263
+status: 3
+tags: []
+user_id: codespace

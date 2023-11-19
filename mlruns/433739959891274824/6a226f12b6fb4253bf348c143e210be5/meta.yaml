@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_w12_MLflow_hzx/mlruns/433739959891274824/6a226f12b6fb4253bf348c143e210be5/artifacts
+end_time: 1700423402765
+entry_point_name: ''
+experiment_id: '433739959891274824'
+lifecycle_stage: active
+run_id: 6a226f12b6fb4253bf348c143e210be5
+run_name: treasured-shoat-405
+run_uuid: 6a226f12b6fb4253bf348c143e210be5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700423401477
+status: 3
+tags: []
+user_id: codespace

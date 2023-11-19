@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_w12_MLflow_hzx/mlruns/433739959891274824/5bc0478fba0e4ed89f35eca1fbc84a8b/artifacts
+end_time: 1700423392260
+entry_point_name: ''
+experiment_id: '433739959891274824'
+lifecycle_stage: active
+run_id: 5bc0478fba0e4ed89f35eca1fbc84a8b
+run_name: salty-skink-934
+run_uuid: 5bc0478fba0e4ed89f35eca1fbc84a8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700423390958
+status: 3
+tags: []
+user_id: codespace

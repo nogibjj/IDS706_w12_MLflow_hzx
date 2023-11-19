@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_w12_MLflow_hzx/mlruns/433739959891274824/24e269e3e60f495980e02d2ddbce23f1/artifacts
+end_time: 1700423407096
+entry_point_name: ''
+experiment_id: '433739959891274824'
+lifecycle_stage: active
+run_id: 24e269e3e60f495980e02d2ddbce23f1
+run_name: nervous-auk-338
+run_uuid: 24e269e3e60f495980e02d2ddbce23f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700423405767
+status: 3
+tags: []
+user_id: codespace

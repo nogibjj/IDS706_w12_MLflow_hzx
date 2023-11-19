@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_w12_MLflow_hzx/mlruns/433739959891274824/1af536ddd26c40e9b6ae8b6da453ea88/artifacts
+end_time: 1700423400266
+entry_point_name: ''
+experiment_id: '433739959891274824'
+lifecycle_stage: active
+run_id: 1af536ddd26c40e9b6ae8b6da453ea88
+run_name: gregarious-turtle-94
+run_uuid: 1af536ddd26c40e9b6ae8b6da453ea88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700423398845
+status: 3
+tags: []
+user_id: codespace

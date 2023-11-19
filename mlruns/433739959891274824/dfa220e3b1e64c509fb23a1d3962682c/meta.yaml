@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_w12_MLflow_hzx/mlruns/433739959891274824/dfa220e3b1e64c509fb23a1d3962682c/artifacts
+end_time: 1700423394978
+entry_point_name: ''
+experiment_id: '433739959891274824'
+lifecycle_stage: active
+run_id: dfa220e3b1e64c509fb23a1d3962682c
+run_name: efficient-pug-780
+run_uuid: dfa220e3b1e64c509fb23a1d3962682c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700423393643
+status: 3
+tags: []
+user_id: codespace

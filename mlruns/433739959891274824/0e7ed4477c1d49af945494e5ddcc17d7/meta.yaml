@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_w12_MLflow_hzx/mlruns/433739959891274824/0e7ed4477c1d49af945494e5ddcc17d7/artifacts
+end_time: 1700423390955
+entry_point_name: ''
+experiment_id: '433739959891274824'
+lifecycle_stage: active
+run_id: 0e7ed4477c1d49af945494e5ddcc17d7
+run_name: unleashed-pig-794
+run_uuid: 0e7ed4477c1d49af945494e5ddcc17d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700423389141
+status: 3
+tags: []
+user_id: codespace

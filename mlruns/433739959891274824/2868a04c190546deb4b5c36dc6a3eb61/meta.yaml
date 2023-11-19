@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_w12_MLflow_hzx/mlruns/433739959891274824/2868a04c190546deb4b5c36dc6a3eb61/artifacts
+end_time: 1700423409838
+entry_point_name: ''
+experiment_id: '433739959891274824'
+lifecycle_stage: active
+run_id: 2868a04c190546deb4b5c36dc6a3eb61
+run_name: abundant-trout-822
+run_uuid: 2868a04c190546deb4b5c36dc6a3eb61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700423408563
+status: 3
+tags: []
+user_id: codespace

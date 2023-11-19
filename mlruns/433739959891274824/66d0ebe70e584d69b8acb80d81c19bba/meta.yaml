@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_w12_MLflow_hzx/mlruns/433739959891274824/66d0ebe70e584d69b8acb80d81c19bba/artifacts
+end_time: 1700423401473
+entry_point_name: ''
+experiment_id: '433739959891274824'
+lifecycle_stage: active
+run_id: 66d0ebe70e584d69b8acb80d81c19bba
+run_name: sneaky-crane-526
+run_uuid: 66d0ebe70e584d69b8acb80d81c19bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700423400269
+status: 3
+tags: []
+user_id: codespace
